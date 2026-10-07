@@ -1,0 +1,1 @@
+Credential-free CopyCheck program files only. No paired installers, keys, user media or configuration. The owner website issues installation configuration separately.
